@@ -7,7 +7,7 @@ This project is a frontend skill test. It is a reusable cascading menu where you
 
 ## Demo
 
-![Demo gif](https://im3.ezgif.com/tmp/ezgif-3-d890525443.gif)
+![Demo gif](https://user-images.githubusercontent.com/22601440/175544309-82e5418c-b51b-46e4-b3b5-a84dd6de0a0b.gif)
 
 
 
